@@ -1,4 +1,5 @@
 'use strict';
+console.log('testing');
 
 
 $(document).ready (function() {
